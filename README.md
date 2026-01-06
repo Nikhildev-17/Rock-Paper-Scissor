@@ -7,7 +7,7 @@ This project was created to practice front-end fundamentals such as DOM manipula
 
 ## 📸 Screenshot
 
-![Rock Paper Scissors Game](./working-screenshot.png)
+![Rock Paper Scissors Game](./working-screenshot.PNG)
 
 ---
 
@@ -38,6 +38,6 @@ This project was created to practice front-end fundamentals such as DOM manipula
 ## 🚀 How to Run
 1. Clone the repository  
    ```bash
-   git clone https://github.com/Nikhildev-17/Rock-Paper-Scissors.git
+   git clone https://github.com/Nikhildev-17/Rock-Paper-Scissor.git
    ```
 
